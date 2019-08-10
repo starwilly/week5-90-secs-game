@@ -13,6 +13,9 @@
       "Phaser"
     ]
   },
+  "files": [
+    "custom.d.ts"
+  ],
   "include": [
     "src/*"
   ]
